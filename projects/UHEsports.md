@@ -15,7 +15,7 @@ summary: "Worked with a team to remodel and create a frontend webpage hosted
 on the University of Hawai’i servers."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/UHE-Website-Photo.png">
 
 The University of Hawai’i Esports Website is a web application that I helped redesign as part of a team project in August 2023. The project taught me how to remodel and implement a responsive webpage using modern web development tools.
 
