@@ -11,20 +11,19 @@ labels:
   - Material UI
   - GitHub
   - Jira
-summary: "Worked with a team of 3 developers and 5 designers to remodel and create a frontend webpage hosted
+summary: "Worked with a team to remodel and create a frontend webpage hosted
 on the University of Hawai’i servers."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The University of Hawai’i Esports Website is a web application that I helped redesign as part of a team project in August 2023. The project taught me how to remodel and implement a responsive webpage using modern web development tools.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The website is built using React.js with Material UI for the user interface and is hosted on the University of Hawai’i servers. Over several months, we worked as a team of 3 developers and 5 designers to create a dynamic and responsive platform for esports.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project, I gained experience with full-stack web development using a waterfall methodology. We utilized Jira for task management and implemented frameworks to handle dynamic content, improving the overall user experience.
 
-Here is some example code to illustrate Simple Schema use:
+Here is some example code that I created:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
