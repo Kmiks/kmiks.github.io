@@ -15,7 +15,9 @@
   },
   "interests": [
     { "name": "Cyber Security" },
-    { "name": "Video Games" }
+    { "name": "Video Games" },
+    { "name": "Cyber Law and Ethics"},
+    { "name": "Cryptography"}
   ],
   "skills": [
     {
