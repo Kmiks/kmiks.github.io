@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/UHEsports_logo.jpg
+image: img/UHEsports_logo.jpg
 title: "UHEsports Website"
 date: 2023-09-15
 published: true
