@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Gen.G_logo.jpg
+image: img/Gen.G_logo.png
 title: "Good Game English"
 date: 2023
 published: true
