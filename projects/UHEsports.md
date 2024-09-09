@@ -23,7 +23,7 @@ The website is built using React.js with Material UI for the user interface and 
 
 In this project, I gained experience with full-stack web development using a waterfall methodology. We utilized Jira for task management and implemented frameworks to handle dynamic content, improving the overall user experience.
 
-[Visit Example](https://www.hawaii.edu/testesports/#/)
+Our webpage is currently under development, our test page can be found here at: [hawaii.edu/testesports](https://www.hawaii.edu/testesports/#/)
 
 Here is some example code that I created:
 
