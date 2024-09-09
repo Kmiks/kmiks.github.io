@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Good Game English"
+date: 2023
 published: true
 labels:
   - Robotics
@@ -18,11 +18,14 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+During my internship at Gen. G Esports, I led the development of an educational curriculum titled Good Game English, a unique program designed to blend language learning with gaming. This project was specifically created for middle school students attending summer sessions, and it sought to enhance their English language skills by incorporating elements from the popular game League of Legends.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The challenge was to develop a curriculum that not only met educational standards but also actively engaged students through their passion for gaming. Over the course of the internship, I worked alongside a team to create three weeks' worth of lesson plans. These lessons balanced gaming mechanics with language learning exercises, utilizing in-game terminology, character dialogue, and strategic thinking as ways to improve vocabulary, reading comprehension, and communication skills.
 
-Here is some code that illustrates how we read values from the line sensors:
+Each week’s lesson was designed to hit specific engagement and learning quotas, which required us to constantly revise and test new approaches to ensure maximum student participation. We implemented quizzes, team-based activities, and discussions that leveraged the social and collaborative aspects of gaming to foster teamwork and critical thinking in the classroom.
+
+Beyond creating the curriculum, I had the opportunity to present our work during several large-scale presentations in Hawaii. These presentations were aimed at showcasing the potential of combining esports with education, and they provided a platform to highlight the positive impact of gaming in a structured, academic setting. I also addressed feedback from educators and peers to refine the curriculum further.
+
 
 ```cpp
 byte ADCRead(byte ch)
