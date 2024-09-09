@@ -6,9 +6,9 @@ title: "Good Game English"
 date: 2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Curriculum Development
+  - Interactive Lessons
+  - Presentation Skills
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
