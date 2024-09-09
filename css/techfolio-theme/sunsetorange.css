@@ -1,4 +1,4 @@
-/* Sunset Orange Theme: a warm and vibrant color palette. */
+/* Sunset Orange Theme: a warm and vibrant color palette with subdued tags. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -9,6 +9,7 @@
   --tf-orange2: #FF8F00; /* Brighter sunset orange */
   --tf-orange3: #FFA000; /* Light orange */
   --tf-orange4: #FFE0B2; /* Very light orange */
+  --tf-gray: #B0BEC5; /* Gray for less vibrant elements */
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
   --tf-pill-bg: var(--tf-orange3);
@@ -16,8 +17,11 @@
   --tf-page-bg-color: #FFF3E0; /* Very light orange */
   --tf-footer-bg-color: var(--tf-orange4);
   --tf-projects-bg-color: var(--tf-orange4);
+  --tf-tag-bg: var(--tf-gray); /* Gray background for tags */
+  --tf-tag-text: #616161; /* Dark gray text for tags */
 }
 
+/* Headline colors */
 h1,h2,h3,h4,h5 {
   color: var(--tf-orange1);
 }
@@ -31,8 +35,20 @@ h1,h2,h3,h4,h5 {
   width: 1.5em;
 }
 
+/* Links */
 a {
   text-decoration: none;
+  color: var(--bs-link-color);
+}
+
+/* Tags styling */
+.tag {
+  background-color: var(--tf-tag-bg);
+  color: var(--tf-tag-text);
+  border-radius: 3px;
+  padding: 0.2em 0.5em;
+  font-size: 0.9em;
+  margin: 0.2em;
 }
 
 /* Add border color to images with rounded-circle class */
