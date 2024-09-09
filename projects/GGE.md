@@ -13,9 +13,9 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GGE-Syllabus.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GGE-Lesson-Pt1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GGE-Lesson-Pt1.png" class="img-thumbnail" >
 </div>
 
 During my internship at Gen. G Esports, I led the development of an educational curriculum titled Good Game English, a unique program designed to blend language learning with gaming. This project was specifically created for middle school students attending summer sessions, and it sought to enhance their English language skills by incorporating elements from the popular game League of Legends.
