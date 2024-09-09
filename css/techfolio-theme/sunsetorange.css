@@ -1,4 +1,4 @@
-/* Sunset Orange Theme: a warm and vibrant color palette with subdued tags. */
+/* Sunset Orange Theme: Adjusted colors with white backgrounds and shifted color roles. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -9,16 +9,21 @@
   --tf-orange2: #FF8F00; /* Brighter sunset orange */
   --tf-orange3: #FFA000; /* Light orange */
   --tf-orange4: #FFE0B2; /* Very light orange */
-  --tf-gray: #B0BEC5; /* Gray for less vibrant elements */
+  --tf-gray: #B0BEC5; /* Gray for tags */
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
   --tf-pill-bg: var(--tf-orange3);
   --tf-icon-fill: var(--tf-orange1);
-  --tf-page-bg-color: #FFF3E0; /* Very light orange */
-  --tf-footer-bg-color: var(--tf-orange4);
-  --tf-projects-bg-color: var(--tf-orange4);
-  --tf-tag-bg: var(--tf-gray); /* Gray background for tags */
+  --tf-page-bg-color: #FFFFFF; /* White background */
+  --tf-footer-bg-color: var(--tf-orange4); /* Very light orange */
+  --tf-projects-bg-color: var(--tf-gray); /* Gray for project boxes */
+  --tf-tag-bg: var(--tf-orange4); /* Very light orange for tags */
   --tf-tag-text: #616161; /* Dark gray text for tags */
+}
+
+/* Background and content colors */
+body {
+  background-color: var(--tf-page-bg-color);
 }
 
 /* Headline colors */
@@ -39,6 +44,14 @@ h1,h2,h3,h4,h5 {
 a {
   text-decoration: none;
   color: var(--bs-link-color);
+}
+
+/* Project boxes */
+.project-box {
+  background-color: var(--tf-projects-bg-color);
+  border-radius: 5px;
+  padding: 1em;
+  margin: 1em 0;
 }
 
 /* Tags styling */
