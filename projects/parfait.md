@@ -20,7 +20,4 @@ Throughout the project, I learned key concepts like DOM manipulation (using comm
 
 While I was responsible for both the design and coding aspects, I received guidance when debugging issues with updating the order summary. This project emphasized the importance of clean data handling and helped refine my web development skills.
 
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+[Click here to see project.](https://github.com/Kmiks/Parfait-Shop)
