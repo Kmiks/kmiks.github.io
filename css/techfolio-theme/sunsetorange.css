@@ -7,8 +7,8 @@
 /* Define pastel sunset orange colors */
 :root {
   --tf-orange1: ##e89556; /* Sunset orange */
-  --tf-orange2: #FF8F00; /* Brighter pastel sunset orange */
-  --tf-orange3: #FFA000; /* Light pastel orange */
+  --tf-orange2: ##fc9d65; /* Brighter pastel sunset orange */
+  --tf-orange3: ###f5c682; /* Light pastel orange */
   --tf-orange4: #FFE0B2; /* Very light pastel orange */
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
