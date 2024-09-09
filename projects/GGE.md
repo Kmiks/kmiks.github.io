@@ -13,9 +13,9 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/GGE-Syllabus.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GGE-Lesson-Pt1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GGE-Lesson-Pt1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GGE-Syllabus.png" >
+  <img width="200px" src="../img/GGE-Lesson-Pt1.png" >
+  <img width="200px" src="../img/GGE-Lesson-Pt1.png"  >
 </div>
 
 During my internship at Gen. G Esports, I led the development of an educational curriculum titled Good Game English, a unique program designed to blend language learning with gaming. This project was specifically created for middle school students attending summer sessions, and it sought to enhance their English language skills by incorporating elements from the popular game League of Legends.
@@ -26,17 +26,3 @@ Each week’s lesson was designed to hit specific engagement and learning quotas
 
 Beyond creating the curriculum, I had the opportunity to present our work during several large-scale presentations in Hawaii. These presentations were aimed at showcasing the potential of combining esports with education, and they provided a platform to highlight the positive impact of gaming in a structured, academic setting. I also addressed feedback from educators and peers to refine the curriculum further.
 
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
