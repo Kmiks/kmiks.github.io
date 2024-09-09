@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Shop.jpg
 title: "Parfait Shop"
 date: 2021
 published: true
