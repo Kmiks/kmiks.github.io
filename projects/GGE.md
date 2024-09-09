@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Gen.G_logo.jpg
 title: "Good Game English"
 date: 2023
 published: true
