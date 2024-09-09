@@ -6,7 +6,6 @@ title: "My Shift with TypeScript and WODs"
 date: 2024-09-04
 published: true
 labels:
-  - Engineering
 ---
 
 ## What’s Up With TypeScript?
