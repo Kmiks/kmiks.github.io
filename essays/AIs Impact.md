@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "How AI Will Impact The Next Generation Workforce"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-10
+date: 2023-07-26
 published: true
 labels:
   - 
   - 
 ---
-##Summary
+## Summary
 
 The article discusses the impact of Artificial Intelligence (AI) on the next generation workforce and its potential to create both positive and negative effects. It references the "Future of Jobs Report 2020" by the World Economic Forum, which predicts that AI will replace 85 million jobs while generating 97 million new roles globally by 2025. The article highlights that the types of jobs created will differ from those lost, leading to changes in the job market for recent graduates.
 
@@ -18,7 +18,7 @@ In the context of AI transforming the workforce, the article focuses on its posi
 Overall, the article emphasizes the significance of AI in shaping the future job market, with potential benefits in terms of inclusivity, accessibility, and equitable opportunities for individuals from diverse backgrounds.
 
 
-##Relationship to Leadership Issues/Considerations: Covid-19 and Post-Covid-19 
+## Relationship to Leadership Issues/Considerations: Covid-19 and Post-Covid-19
 
 The article explores the impact of Artificial Intelligence (AI) on the next generation workforce and how it can create both positive and negative effects. With the World Economic Forum's prediction that AI will replace millions of jobs while generating new ones, recent graduates and the next generation of workers face a changing job landscape. As a computer science student, I find this topic intriguing, as it emphasizes the importance of developing a diversified skill set to stay relevant in the rapidly evolving job market influenced by AI.
 
@@ -31,7 +31,7 @@ Leadership considerations in a post-pandemic world extend beyond the hiring proc
 In conclusion, the article highlights the significant impact of AI on the next generation workforce and its relationship to leadership issues during and after the Covid-19 pandemic. As a computer science student, I recognize the importance of being adaptable and open to embracing AI technologies in the future. By leveraging AI responsibly, leaders can foster inclusivity, diversity, and equitable opportunities in the workforce, ensuring that the potential of AI is harnessed for the benefit of both companies and employees in the post-pandemic era.
 
 
-##Your personal reaction to the article
+## Your personal reaction to the article
 
 As I contemplate the impact of AI on my future career, I feel a mix of excitement and curiosity. As a computer science student, I understand that AI's rapid advancement will undoubtedly shape the job market in the years to come. While there might be concerns about certain roles becoming automated, I also recognize the immense potential AI offers in transforming industries and creating new opportunities. Embracing AI technologies and staying updated with the latest advancements in the field will allow me to position myself as an asset to potential employers, enabling me to contribute effectively in a rapidly changing tech industry.
 
