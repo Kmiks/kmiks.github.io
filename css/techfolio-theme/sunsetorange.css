@@ -1,43 +1,45 @@
-/* Sunset Orange Theme: Adjusted colors with white backgrounds and shifted color roles. */
+/* Sunset Orange Theme: modifies the default theme to use pastel sunset oranges in various places. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
-/* Define sunset orange colors */
+/* Define pastel sunset orange colors */
 :root {
-  --tf-orange1: #FF6F00; /* Sunset orange */
-  --tf-orange2: #FF8F00; /* Brighter sunset orange */
-  --tf-orange3: #FFA000; /* Light orange */
-  --tf-orange4: #FFE0B2; /* Very light orange */
-  --tf-gray: #B0BEC5; /* Gray for tags */
+  --tf-orange1: ##e89556; /* Sunset orange */
+  --tf-orange2: #FF8F00; /* Brighter pastel sunset orange */
+  --tf-orange3: #FFA000; /* Light pastel orange */
+  --tf-orange4: #FFE0B2; /* Very light pastel orange */
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
   --tf-pill-bg: var(--tf-orange3);
   --tf-icon-fill: var(--tf-orange1);
+  --tf-icon-hover: var(--tf-orange2);
   --tf-page-bg-color: #FFFFFF; /* White background */
-  --tf-footer-bg-color: var(--tf-orange4); /* Very light orange */
-  --tf-projects-bg-color: var(--tf-gray); /* Gray for project boxes */
-  --tf-tag-bg: var(--tf-orange4); /* Very light orange for tags */
+  --tf-footer-bg-color: var(--tf-orange4); /* Very light pastel orange */
+  --tf-projects-bg-color: var(--tf-orange4); /* Very light pastel orange */
+  --tf-tag-bg: var(--tf-orange3); /* Light pastel orange for tags */
   --tf-tag-text: #616161; /* Dark gray text for tags */
 }
 
-/* Background and content colors */
-body {
-  background-color: var(--tf-page-bg-color);
-}
-
 /* Headline colors */
-h1,h2,h3,h4,h5 {
+h1, h2, h3, h4, h5 {
   color: var(--tf-orange1);
+  font-family: Rubik;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-orange3);
+  fill: var(--tf-orange1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
 }
 
 /* Links */
@@ -69,4 +71,15 @@ a {
   border-color: var(--tf-orange1);
   border-style: solid;
   border-width: 1px;
+}
+
+/* Media queries */
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
 }
