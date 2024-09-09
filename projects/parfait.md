@@ -12,7 +12,7 @@ labels:
 summary: "This website lets users order parfaits and calculates totals."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/Parfait-Shop-Website.png">
 
 This parfait shop website was developed as part of a project aimed at improving my skills in HTML, CSS, and JavaScript. The site allows users to browse and order from a selection of four parfaits. JavaScript functions are used to handle user input, such as selecting items and quantities, updating the running order list, and calculating the subtotal and grand total, including tax.
 
