@@ -31,7 +31,7 @@ As of the time of writing, this question has not received any responses and has 
 Question: [How to remove "http://", "https://", or "www." from string in pandas](https://stackoverflow.com/questions/78980323/how-to-remove-http-https-or-www-from-string-in-pandas)
 
 *Summary: *
-This user is asking how to remove specific prefixes like (“http://", "https://", or "www.") from a column of URLs in a pandas DataFrame. The user clearly outlines the task, providing examples of input URLs and the expected output. There was no code provided in this question. 
+This user is asking how to remove specific prefixes like (“http://", "https://", or "www") from a column of URLs in a pandas DataFrame. The user clearly outlines the task, providing examples of input URLs and the expected output. There was no code provided in this question. 
 
 *Analysis: *
 The user was clear in their question on what their task was, removing URL prefixes, and provided examples of the input and expected output. They specified the exact prefixes they wanted to remove and included a pandas DataFrame context. This aligned well with Raymonds recommendation to provide a concise and detailed problem description
