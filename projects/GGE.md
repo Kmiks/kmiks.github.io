@@ -9,7 +9,7 @@ labels:
   - Curriculum Development
   - Interactive Lessons
   - Presentation Skills
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "My team developed curriculum that merged gaming and english."
 ---
 
 <div class="text-center p-4">

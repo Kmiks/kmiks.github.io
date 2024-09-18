@@ -6,7 +6,7 @@ title: "Understanding the Impact of Smart and Not-Smart Questions on StackOverfl
 date: 2024-09-12
 published: true
 labels:
-  - Engineering
+  - 
 ---
 
 
