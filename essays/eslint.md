@@ -6,9 +6,9 @@ title: "From Frustration to Insight"
 date: 2024-09-26
 published: true
 labels:
-  - Artificial Intelligence
-  - Job Market
-  - 
+  - ESLint
+  - Code Quality
+  - Team Collaboration
 ---
 
 When asked to think about coding standards, I immediately focused on small things: use spaces or tabs, curly braces go here or there. Although those little details sometimes get pretty annoying, I've come to realize that coding standards actually play a much bigger role in improving the quality of your code and your overall programming skills.
