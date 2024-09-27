@@ -6,7 +6,8 @@ title: "How AI Will Impact The Next Generation Workforce"
 date: 2023-07-26
 published: true
 labels:
-  - 
+  - Artificial Intelligence
+  - Job Market
   - 
 ---
 ## Summary
