@@ -6,6 +6,10 @@ title: "My Shift with TypeScript and WODs"
 date: 2024-09-04
 published: true
 labels:
+  - TypeScript
+  - WODs
+  - Software Development
+  - Efficiency
 ---
 
 ## What’s Up With TypeScript?
