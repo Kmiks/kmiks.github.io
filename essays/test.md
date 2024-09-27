@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How AI Will Impact The Next Generation Workforce"
+title: "test"
 # All dates must be YYYY-MM-DD format!
 date: 2023-07-26
 published: true
