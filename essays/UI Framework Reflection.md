@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "From Frustration to Insight"
+title: "Building Better Websites: The Advantages of Using Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
 published: true
 labels:
-  - ESLint
-  - Code Quality
-  - Team Collaboration
+  - Boostrap 5
+  - Code Efficency
 ---
 
 UI frameworks like Bootstrap offer a way to streamline the process of creating responsive, user-friendly interfaces. When I first started using Bootstrap, I realized how much easier it made building websites compared to coding everything from scratch with HTML and CSS. While frameworks can have a learning curve I was able to adapt pretty easily with my past experience with other UI fameworks. 
