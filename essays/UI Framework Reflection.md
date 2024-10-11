@@ -16,7 +16,7 @@ UI frameworks like Bootstrap offer a way to streamline the process of creating r
 ## Sweet Chilling: A Project with Bootstrap 5
 For my "Your Choice" project, I chose to recreate part of one of my favorite clothing brands' websites. Here’s a look at the webpage I built using Bootstrap:
 
-<!-- Replace this with the actual link to your image -->
+<img class="img-fluid" src="../img/bootstrap-sweet-chilling.png">
 
 Bootstrap’s grid system and built-in components made things much easier, letting me focus on layout and functionality without getting caught up in the small details of CSS. Elements like navigation bars, buttons, and form inputs were easy to implement and required minimal customization. It was a refreshing change from my high school classes, where I would just use plain HTML and CSS.
 
