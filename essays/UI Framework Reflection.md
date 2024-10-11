@@ -18,6 +18,8 @@ For my "Your Choice" project, I chose to recreate part of one of my favorite clo
 
 <img class="img-fluid" src="../img/bootstrap-sweet-chilling.png">
 
+In high school, it would have taken me around an hour to design a mock website like this. With Bootstrap, however, I was able to complete it in just 30 minutes. Of course, my increased knowledge and experience also contributed to this quicker turnaround.
+
 Bootstrap’s grid system and built-in components made things much easier, letting me focus on layout and functionality without getting caught up in the small details of CSS. Elements like navigation bars, buttons, and form inputs were easy to implement and required minimal customization. It was a refreshing change from my high school classes, where I would just use plain HTML and CSS.
 
 One of the most frustrating parts of using only HTML and CSS was managing spacing and alignment. I remember how annoying it was to get everything lined up properly, especially when I had to adjust things one pixel at a time to ensure proper alignment. Doing this wasn’t great for maintaining consistent layouts across different screen sizes. With Bootstrap, however, spacing and alignment became much easier to manage. The framework’s grid system handled positioning elements without the need to hardcode every single pixel value. This saved a lot of time and made the overall webpage’s design more flexible.
