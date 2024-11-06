@@ -7,17 +7,15 @@ labels:
   - Software Engineering
   - Nextjs
 ---
+# Project: MealMate
+##### Authors: Tiffany Duong, Casey Caro, Isabelle Castro
+
 ## Overview
 
 **The Problem:** Many students and community members want easy access to a variety of recipes but are often limited by time, budget, or lack of culinary experience. While recipe websites exist, they often have complicated or gourmet-level recipes that aren’t practical for a busy college lifestyle.
 
 **The Solution:** A recipe-sharing platform tailored for simplicity and accessibility, where users can share and discover quick, easy, and budget-friendly recipes. The app would allow users to filter recipes by dietary needs, difficulty, and available equipment (e.g., microwave-only, no oven required), making it highly practical for students.
 
-
-## Names of the Proposers
-  - Tiffany Duong
-  - Casey Caro
-  - Isabelle Castro
 
 ## Mockup Page Ideas
 **Home Page:** Displays popular and recently added recipes, with options to filter by dietary preference, time, and budget.
