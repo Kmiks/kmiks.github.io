@@ -15,17 +15,30 @@ labels:
 
 
 ## Names of the Proposers
-Tiffany Duong
-Casey Caro
-Isabelle Castro
+  - Tiffany Duong
+  - Casey Caro
+  - Isabelle Castro
 
 ## Mockup Page Ideas
-Home Page: Displays popular and recently added recipes, with options to filter by dietary preference, time, and budget.
-Recipe Submission Page: Users can easily upload recipes with photos, ingredients, preparation steps, and equipment requirements.
-User Profile: Allows users to save favorite recipes, track what they've tried, and view personal uploads.
-Community Favorites Page: A curated selection of the top recipes based on user ratings and feedback.
+**Home Page:** Displays popular and recently added recipes, with options to filter by dietary preference, time, and budget.
+
+**Recipe Submission Page:** Users can easily upload recipes with photos, ingredients, preparation steps, and equipment requirements.
+
+**User Profile:** Allows users to save favorite recipes, track what they've tried, and view personal uploads.
+
+**Community Favorites Page:** A curated selection of the top recipes based on user ratings and feedback.
 
 ## Use Case Ideas
-Quick Search: Users looking for a fast meal can filter recipes by preparation time, budget, and dietary needs.
-User Interaction: Users can rate, review, and save recipes, creating a community-driven ranking for each recipe.
-Recipe Sharing: Users can share their own recipes, which will be accessible to others and allow for community feedback.
+**Quick Search:** Users looking for a fast meal can filter recipes by preparation time, budget, and dietary needs.
+
+**User Interaction:** Users can rate, review, and save recipes, creating a community-driven ranking for each recipe.
+
+**Recipe Sharing:** Users can share their own recipes, which will be accessible to others and allow for community feedback.
+
+## Beyond the Basics
+  - Ingredient-Based Search with Smart Substitutions:
+      - Include an “ingredient-based search” where users can input ingredients they have on hand, and the app suggests recipes that can be made with those items.
+  - Recipe Collections:
+      - Users can create and share collections of recipes (e.g., “Easy Breakfasts” or “Healthy Snacks”) for others to explore.
+  - Weekly Themes:
+      - Each week, the platform features a different theme, such as “5 Ingredients or Less” or “Microwave Recipes.” Users can submit recipes that align with the theme, encouraging community engagement.
