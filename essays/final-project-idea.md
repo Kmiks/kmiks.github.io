@@ -36,8 +36,6 @@ labels:
 **Recipe Sharing:** Users can share their own recipes, which will be accessible to others and allow for community feedback.
 
 ## Beyond the Basics
-  - Ingredient-Based Search with Smart Substitutions:
-      - Include an “ingredient-based search” where users can input ingredients they have on hand, and the app suggests recipes that can be made with those items.
   - Recipe Collections:
       - Users can create and share collections of recipes (e.g., “Easy Breakfasts” or “Healthy Snacks”) for others to explore.
   - Weekly Themes:
