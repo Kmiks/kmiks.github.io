@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 # Project: MealMate
-##### Authors: Tiffany Duong, Casey Caro, Isabelle Castro
+##### Authors: Tiffany Duong, Casey Caro, Isabelle Castro, Lucas Corriero
 
 ## Overview
 
