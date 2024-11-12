@@ -42,5 +42,3 @@ labels:
 ## Beyond the Basics
   - Weekly Letter Prompts:
       - Each week, a new prompt could encourage users to write about a specific theme, like “Hope” or “Kindness.” This feature fosters engagement and adds variety.
-  - Positive Streaks:
-      - Users could be rewarded for writing consistently over several days, promoting regular engagement and continuous support for the community.
