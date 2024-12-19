@@ -43,8 +43,8 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Home Page</h2>
     <p>Users are provided an overview of the application and its purpose. For users who are not logged in, the page restricts access to most pages and features but still allows navigation to the Mental Health Resources page through the footer. Once a user logs in, the navigation bar updates, granting full access to other key pages of the site.</p>
-    <img src="../img/dear-sunshine/m3-home1.png">
-    <img src="../img/dear-sunshine/m3-home2.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-home1.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-home2.png">
   </div>
 </div>
 
@@ -52,8 +52,8 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Sign In and Sign Up</h2>
     <p>If users have already created an account, they can log in via the Sign In page by entering their email and password. New users must use the Sign Up page to create an account by providing their email and password. Once registered, users are automatically logged in and can access all features.</p>
-    <img src="../img/dear-sunshine/m3-signin.png">
-    <img src="../img/dear-sunshine/m3-signup.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-signin.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-signup.png">
   </div>
 </div>
 
@@ -61,7 +61,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Sign Out</h2>
     <p>Users are able to securely end their session. After signing out, users are automatically redirected to the Home Page to ensure a smooth exit experience.</p>
-    <img src="../img/dear-sunshine/m3-signout.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-signout.png">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Change Password</h2>
     <p>Users can change their password by entering their current password and confirming the new password by typing it twice. This ensures security and accuracy when updating credentials.</p>
-    <img src="../img/dear-sunshine/m3-changepassword.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-changepassword.png">
   </div>
 </div>
 
@@ -77,7 +77,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Write Letter</h2>
     <p>Users can compose their own letters to post onto the letter board. They must include relevant tags to help categorize the content and guide the type of responses they want to receive. Letters are also limited to 500 characters to encourage concise and meaningful communication.</p>
-    <img src="../img/dear-sunshine/m3-write.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-write.png">
   </div>
 </div>
 
@@ -85,7 +85,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Letter Board</h2>
     <p>Displays all user letters and their replies, sorted chronologically and can be filtered by tags. Users can engage with the letters by replying with supportive or thoughtful messages or through reactions. They can also edit or delete their own letters, giving them full control over their content.</p>
-    <img src="../img/dear-sunshine/m3-board.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-board.png">
   </div>
 </div>
 
@@ -93,7 +93,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Reply to Letter</h2>
     <p>Users will view the specific letter they’ve chosen to reply to and use the provided text box to compose their response. Replies are limited to 250 characters, ensuring they are concise and to the point.</p>
-    <img src="../img/dear-sunshine/m3-reply.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-reply.png">
   </div>
 </div>
 
@@ -101,7 +101,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Mental Health Resources</h2>
     <p>Users will find a collection of self-care tips and mental health resources to support them through challenging times. It includes practical advice, such as practicing gratitude, journaling, and taking mindful breaks, as well as guidance on connecting with uplifting activities and people. The page also lists helplines and directories to ensure access to immediate professional support when needed.</p>
-    <img src="../img/dear-sunshine/m3-health.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-health.png">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Profile</h2>
     <p>Users will be able to view and manage their posts and replies, along with counts for each. Users can also personalize their signature name by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
-    <img src="../img/dear-sunshine/m3-profile.png">
+    <img class="img-fluid" src="../img/dear-sunshine/m3-profile.png">
   </div>
 </div>
 
