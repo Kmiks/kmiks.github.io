@@ -31,7 +31,7 @@ This experience taught me the importance of teamwork in software development. I 
 ## Screenshots:
 Homepage
 <img class="img-fluid" src="../img/dear-sunshine/m3-home1.png">
-Discussion/Letter Pagey
+Discussion/Letter Page
 <img class="img-fluid" src="../img/dear-sunshine/m3-board.png">
 
 ## Source Code:
