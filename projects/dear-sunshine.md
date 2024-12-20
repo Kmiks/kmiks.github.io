@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/dear-sunshine/dear-sunshine-project.png
 title: "Dear Sunshine"
 date: 2024
 published: true
