@@ -16,13 +16,13 @@
   "interests": [
     { "name": "Cyber Security" },
     { "name": "Video Games" },
-    { "name": "Cyber Law and Ethics"},
+    { "name": "Artificial Intelligence"},
     { "name": "Cryptography"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "Javascript", "C" ]
+      "keywords": [ "Python", "Java", "Javascript", "C", "Assembly" ]
     },
     {
       "name": "Toolsets/OS",
@@ -42,7 +42,7 @@
      {
       "institution": "Theodore Roosevelt High School, Honolulu, HI",
       "area": "High School Diploma",
-      "studyType": "Magnum Cum Laude",
+      "studyType": "Magna Cum Laude",
       "startDate": "2018-08-01",
       "endDate": "2022-05-21",
       "courses": [ 
@@ -68,12 +68,20 @@
       "organization": "UH Esports",
       "website": "",
       "position": "Front Desk Attendant",
-      "startDate": "2023-08-29",
+      "startDate": "2023-08",
       "endDate": "Present",
       "summary": "Responsible for managing check-in procedures",
       "highlights": [
         "Providing assistance in event planning and facilitating maintenance"
       ]
+    }, 
+    {
+      "organization": "Grey Hats",
+      "website": "",
+      "position": "Board Member",
+      "startDate": "2024-11",
+      "endDate": "Present",
+      "summary": "Responsible for overseeing the club's operations, teaching new concepts to active participants, and creating activities",
     }
   ],
   "awards": [
