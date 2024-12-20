@@ -13,7 +13,7 @@ labels:
   - Bootstrap 5/React
   - Vercel
   - Javascript
-summary: "A text adventure game that I developed for ICS 313."
+summary: "An uplifting website created during ICS 314."
 ---
 
 # Dear Sunshine 
