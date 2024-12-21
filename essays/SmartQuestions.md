@@ -4,7 +4,7 @@ type: essay
 title: "Understanding the Impact of Smart and Not-Smart Questions on StackOverflow"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
-published: true
+published: false
 labels:
   - StackOverflow
   - Questions
