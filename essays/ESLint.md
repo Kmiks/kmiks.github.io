@@ -4,7 +4,7 @@ type: essay
 title: "From Frustration to Insight"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
-published: true
+published: false
 labels:
   - ESLint
   - Code Quality
