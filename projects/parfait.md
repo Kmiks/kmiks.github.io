@@ -4,7 +4,7 @@ type: project
 image: img/Shop.jpg
 title: "Parfait Shop"
 date: 2021
-published: true
+published: false
 labels:
   - Javascript
   - HTML
