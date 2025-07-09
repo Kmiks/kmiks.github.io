@@ -10,7 +10,6 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Kmiks", "url": "http://github.com/Kmiks" },
-      { "network": "linkedin", "username": "Casey Caro", "url": "http://linkedin.com/in/caseycaro" },
       { "network": "linkedin", "username": "Casey Caro", "url": "http://linkedin.com/in/caseycaro" }
     ]
   },
